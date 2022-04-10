@@ -1,0 +1,16 @@
+:root {
+    background-color: whitesmoke;
+}
+input {
+    width: 100px;
+    height: 50px;
+}
+.calculator_in_a_row {
+    display: inline-block;
+}
+.little_form {
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 25%;
+}
